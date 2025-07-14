@@ -1,3 +1,5 @@
 
 Flask
 Flask-JWT-Extended
+Werkzeug
+pip freeze 
